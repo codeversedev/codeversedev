@@ -26,10 +26,10 @@ Software Engineering Professional based in Sydney, Australia.
 
 ### 🧩 Design Patterns
 
-| Repository | Description |
-|:-----------|:------------|
-| [![Design Patterns in Node.js](https://img.shields.io/badge/Design%20Patterns%20in%20Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/codeversedev/design-patterns-nodejs) | Common design patterns implemented in Node.js |
-| [![Design Patterns in Laravel](https://img.shields.io/badge/Design%20Patterns%20in%20Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/codeversedev/design-patterns-laravel) | Common design patterns implemented in Laravel |
+| | Repository | Description |
+|:--|:-----------|:------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | [**Design Patterns in Node.js**](https://github.com/codeversedev/design-patterns-nodejs) | Common design patterns implemented in Node.js |
+| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [**Design Patterns in Laravel**](https://github.com/codeversedev/design-patterns-laravel) | Common design patterns implemented in Laravel |
 
 ---
 
