@@ -1,8 +1,10 @@
 # Hey, I'm Sam R 👋
 
-Software Engineering Professional based in Sydney, Australia on a mission to unlock the mysteries of the Code verse.
+🚀 Software Engineering Professional based in Sydney, Australia on a mission to unlock the mysteries of the **Code verse**.
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -18,10 +20,19 @@ Software Engineering Professional based in Sydney, Australia on a mission to unl
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Repositories
+---
 
-Coming Soon
+## 📂 Repositories
 
-## Let's Connect
+### 🧩 Design Patterns
+
+| Repository | Description |
+|:-----------|:------------|
+| [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/codeversedev/design-patterns-nodejs) [**Design Patterns in Node.js**](https://github.com/codeversedev/design-patterns-nodejs) | Common design patterns implemented in Node.js |
+| [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/codeversedev/design-patterns-laravel) [**Design Patterns in Laravel**](https://github.com/codeversedev/design-patterns-laravel) | Common design patterns implemented in Laravel |
+
+---
+
+## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-codeversedev-181717?style=flat&logo=github)](https://github.com/codeversedev)
