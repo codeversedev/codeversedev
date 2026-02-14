@@ -31,6 +31,12 @@ Software Engineering Professional based in Sydney, Australia.
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | [Design Patterns in Node.js](https://github.com/codeversedev/design-patterns-nodejs) | Common design patterns implemented in Node.js |
 | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Design Patterns in Laravel](https://github.com/codeversedev/design-patterns-laravel) | Common design patterns implemented in Laravel |
 
+### ☁️ Infrastructure
+
+| | Repository | Description |
+|:--|:-----------|:------------|
+| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | [Terraform AWS Serverless](https://github.com/codeversedev/terraform-aws-serverless) | Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring |
+
 ---
 
 ## 🤝 Let's Connect
