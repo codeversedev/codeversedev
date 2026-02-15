@@ -26,35 +26,16 @@ Software Engineering Professional based in Sydney, Australia.
 
 ### 🧩 Design Patterns
 
-<table>
-  <tbody>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18" alt="Node.js"> <a href="https://github.com/codeversedev/design-patterns-nodejs"><b>Design Patterns in Node.js</b></a></td>
-    </tr>
-    <tr>
-      <td>Common design patterns implemented in Node.js</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18" alt="Laravel"> <a href="https://github.com/codeversedev/design-patterns-laravel"><b>Design Patterns in Laravel</b></a></td>
-    </tr>
-    <tr>
-      <td>Common design patterns implemented in Laravel</td>
-    </tr>
-  </tbody>
-</table>
+![Node.js](https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18) [**Design Patterns in Node.js**](https://github.com/codeversedev/design-patterns-nodejs)
+Common design patterns implemented in Node.js
+
+![Laravel](https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18) [**Design Patterns in Laravel**](https://github.com/codeversedev/design-patterns-laravel)
+Common design patterns implemented in Laravel
 
 ### ☁️ Infrastructure
 
-<table>
-  <tbody>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18" alt="Terraform"> <a href="https://github.com/codeversedev/terraform-aws-serverless"><b>Terraform AWS Serverless</b></a></td>
-    </tr>
-    <tr>
-      <td>Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring</td>
-    </tr>
-  </tbody>
-</table>
+![Terraform](https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18) [**Terraform AWS Serverless**](https://github.com/codeversedev/terraform-aws-serverless)
+Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring
 
 ---
 
