@@ -27,27 +27,17 @@ Software Engineering Professional based in Sydney, Australia.
 ### 🧩 Design Patterns
 
 <table>
-  <colgroup>
-    <col width="15%">
-    <col width="30%">
-    <col width="55%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="left"></th>
-      <th align="left">Repository</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18" alt="Node.js"></td>
-      <td><a href="https://github.com/codeversedev/design-patterns-nodejs">Design Patterns in Node.js</a></td>
+      <td><img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18" alt="Node.js"> <a href="https://github.com/codeversedev/design-patterns-nodejs"><b>Design Patterns in Node.js</b></a></td>
+    </tr>
+    <tr>
       <td>Common design patterns implemented in Node.js</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18" alt="Laravel"></td>
-      <td><a href="https://github.com/codeversedev/design-patterns-laravel">Design Patterns in Laravel</a></td>
+      <td><img src="https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18" alt="Laravel"> <a href="https://github.com/codeversedev/design-patterns-laravel"><b>Design Patterns in Laravel</b></a></td>
+    </tr>
+    <tr>
       <td>Common design patterns implemented in Laravel</td>
     </tr>
   </tbody>
@@ -56,22 +46,11 @@ Software Engineering Professional based in Sydney, Australia.
 ### ☁️ Infrastructure
 
 <table>
-  <colgroup>
-    <col width="15%">
-    <col width="30%">
-    <col width="55%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="left"></th>
-      <th align="left">Repository</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18" alt="Terraform"></td>
-      <td><a href="https://github.com/codeversedev/terraform-aws-serverless">Terraform AWS Serverless</a></td>
+      <td><img src="https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18" alt="Terraform"> <a href="https://github.com/codeversedev/terraform-aws-serverless"><b>Terraform AWS Serverless</b></a></td>
+    </tr>
+    <tr>
       <td>Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring</td>
     </tr>
   </tbody>
