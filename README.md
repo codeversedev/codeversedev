@@ -26,16 +26,56 @@ Software Engineering Professional based in Sydney, Australia.
 
 ### 🧩 Design Patterns
 
-| | Repository | Description |
-|:--|:-----------|:------------|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | [Design Patterns in Node.js](https://github.com/codeversedev/design-patterns-nodejs) | Common design patterns implemented in Node.js |
-| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Design Patterns in Laravel](https://github.com/codeversedev/design-patterns-laravel) | Common design patterns implemented in Laravel |
+<table>
+  <colgroup>
+    <col width="15%">
+    <col width="30%">
+    <col width="55%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left"></th>
+      <th align="left">Repository</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18" alt="Node.js"></td>
+      <td><a href="https://github.com/codeversedev/design-patterns-nodejs">Design Patterns in Node.js</a></td>
+      <td>Common design patterns implemented in Node.js</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18" alt="Laravel"></td>
+      <td><a href="https://github.com/codeversedev/design-patterns-laravel">Design Patterns in Laravel</a></td>
+      <td>Common design patterns implemented in Laravel</td>
+    </tr>
+  </tbody>
+</table>
 
 ### ☁️ Infrastructure
 
-| | Repository | Description |
-|:--|:-----------|:------------|
-| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | [Terraform AWS Serverless](https://github.com/codeversedev/terraform-aws-serverless) | Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring |
+<table>
+  <colgroup>
+    <col width="15%">
+    <col width="30%">
+    <col width="55%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left"></th>
+      <th align="left">Repository</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18" alt="Terraform"></td>
+      <td><a href="https://github.com/codeversedev/terraform-aws-serverless">Terraform AWS Serverless</a></td>
+      <td>Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
