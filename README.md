@@ -34,8 +34,13 @@ Common design patterns implemented in Laravel
 
 ### ☁️ Infrastructure
 
-![Terraform](https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18) [**Terraform AWS Serverless**](https://github.com/codeversedev/terraform-aws-serverless)
+![Terraform](https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18) [**Terraform AWS Serverless Template**](https://github.com/codeversedev/terraform-aws-serverless)
 Production-ready serverless infrastructure on AWS using Terraform, featuring API Gateway, Lambda, DynamoDB, S3, SQS, and CloudWatch monitoring
+
+### 🚀 Starter Templates
+
+![Node.js](https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white&logoWidth=18) [**Serverless AWS Lambda Node.js Service**](https://github.com/codeversedev/serverless-aws-lambda-nodejs-service)
+Starter Template Serverless Lambda Microservice in Node.js with DynamoDB
 
 ---
 
