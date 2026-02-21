@@ -46,4 +46,4 @@ Starter Template Serverless Lambda Microservice in Node.js with DynamoDB
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/-codeversedev-181717?style=flat&logo=github)](https://github.com/codeversedev)
+[![GitHub](https://img.shields.io/badge/-codeversedev-181717?style=flat&logo=github&logoWidth=18)](https://github.com/codeversedev)
