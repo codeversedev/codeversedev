@@ -32,6 +32,9 @@ Common design patterns implemented in Node.js
 ![Laravel](https://img.shields.io/badge/-%20-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=18) [**Design Patterns in Laravel**](https://github.com/codeversedev/design-patterns-laravel)
 Common design patterns implemented in Laravel
 
+![Django](https://img.shields.io/badge/-%20-092E20?style=flat-square&logo=django&logoColor=white&logoWidth=18) [**Design Patterns in Django**](https://github.com/codeversedev/design-patterns-django)
+Common design patterns implemented in Django
+
 ### ☁️ Infrastructure
 
 ![Terraform](https://img.shields.io/badge/-%20-7B42BC?style=flat-square&logo=terraform&logoColor=white&logoWidth=18) [**Terraform AWS Serverless Template**](https://github.com/codeversedev/terraform-aws-serverless)
