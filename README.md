@@ -1,6 +1,6 @@
 # Hey, I'm Sam R 👋
 
-Software Engineering Professional based in Sydney, Australia.
+Software & AI Engineering Professional based in Sydney, Australia.
 
 ---
 
@@ -23,6 +23,10 @@ Software Engineering Professional based in Sydney, Australia.
 ---
 
 ## 📂 Repositories
+
+### 🤖 Agentic AI
+
+![](https://img.shields.io/badge/-Agentic%20AI-6C63FF?style=flat&logo=robot-framework&logoColor=white) [**Agent Templates**](https://github.com/codeversedev/agents-templates) Agent Templates
 
 ### 🧩 Design Patterns
 
